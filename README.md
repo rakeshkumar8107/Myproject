@@ -24,5 +24,7 @@ Label file (train-labels.csv)
 Author
 
 Rakesh Kumar
+
 B.Tech Student(IIT Roorkee 2025 - 2029)
+
 Machine Learning and Computer Vision Enthusiast
