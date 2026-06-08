@@ -5,12 +5,19 @@ This project implements an Optical Character Recognition (OCR) system for recogn
 The objective is to automatically predict the 6-character text present in CAPTCHA images.
 
 Features--
+
 1.Image preprocessing using OpenCV
+
 2.Character encoding and decoding
+
 3.CNN-based feature extraction
+
 4.Bidirectional LSTM sequence modeling
+
 5.CTC Loss for sequence prediction
+
 6.TensorFlow/Keras implementation
+
 7.Automatic submission file generation
 
 Dataset
@@ -18,7 +25,9 @@ Dataset
 The dataset contains:
 
 Training images
+
 Test images
+
 Label file (train-labels.csv)
 
 Author
